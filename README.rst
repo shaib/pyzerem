@@ -106,6 +106,9 @@ PyF_, Trellis_ and Pypes_ seem to have a lot of semantics covered, and
 py-dataflow_ seems to have arrived at some similar metaprogramming
 concepts.
 
+Finally, this system also bears some resemblans to rule-production
+systems such as CLIPS_.
+
 .. _Pythonect: http://www.pythonect.org/
 .. _Tersus: http://www.tersus.com/
 .. _`Django models`: https://docs.djangoproject.com/en/dev/topics/db/models/
@@ -113,4 +116,4 @@ concepts.
 .. _Pypes: https://github.com/diji/pypes/
 .. _Trellis: http://peak.telecommunity.com/DevCenter/Trellis
 .. _py-dataflow: https://github.com/gfxmonk/py-dataflow
-
+.. _CLIPS: http://clipsrules.sourceforge.net/documentation/v630/ug.htm
